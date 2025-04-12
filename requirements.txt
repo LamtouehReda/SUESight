@@ -1,5 +1,4 @@
 Flask==2.3.3
 flask-cors==4.0.0
 ultralytics==8.0.206
-opencv-python==4.9.0.80
 numpy==1.26.4
